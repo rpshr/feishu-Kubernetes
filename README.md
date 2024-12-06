@@ -1,5 +1,6 @@
 # feishu+jenkins or k8s
 # 飞书审批单发版jenkins or  k8s 
+# 也适用钉钉审批
 # 修改jenkins账号和密码和redis地址账号密码
 # 获取飞书后台app的权限
 ![image-20241119132942452](doc\image-20241119132743818.png)
@@ -27,4 +28,5 @@
 
 
 k8s config配置文件自行添加
+
 
